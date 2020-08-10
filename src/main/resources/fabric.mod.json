@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "darkportaltools",
+  "version": "1.0.0",
+  "name": "DarkPortalTools1.16.1!",
+  "authors": [
+    "ShishKebab, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": "https://github.com/ClothCreators/MCreatorFabricGenerator"
+  },
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.darkportaltools.DarkportaltoolsMod"
+    ],
+    "client": [
+      "net.mcreator.darkportaltools.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.9.0",
+    "fabric": "*"
+  }
+}

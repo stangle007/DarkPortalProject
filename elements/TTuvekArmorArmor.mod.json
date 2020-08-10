@@ -1,0 +1,53 @@
+{
+  "_fv": 10,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "tuvek_helmet",
+    "enableBody": true,
+    "textureBody": "tuvek_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "tuvekkkleggs",
+    "enableBoots": true,
+    "textureBoots": "fancybooots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "tuvek_",
+    "helmetName": "TTuvekArmor Helmet",
+    "bodyName": "TTuvekArmor Chestplate",
+    "leggingsName": "TTuvekArmor Leggings",
+    "bootsName": "TTuvekArmor Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 45,
+    "damageValueHelmet": 6,
+    "damageValueBody": 15,
+    "damageValueLeggings": 18,
+    "damageValueBoots": 6,
+    "enchantability": 27,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

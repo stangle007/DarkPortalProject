@@ -1,0 +1,233 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CinbarkArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "cinbark_armor_helmet_recipe"
+    },
+    {
+      "name": "CinbarkArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "cinbark_armor_body_recipe"
+    },
+    {
+      "name": "CinbarkArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "cinbark_armor_leggings_recipe"
+    },
+    {
+      "name": "CinbarkArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "cinbark_armor_boots_recipe"
+    },
+    {
+      "name": "TuvekRecipesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "tuvek_recipes_armor_helmet_recipe"
+    },
+    {
+      "name": "TuvekRecipesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "tuvek_recipes_armor_body_recipe"
+    },
+    {
+      "name": "TuvekRecipesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "tuvek_recipes_armor_leggings_recipe"
+    },
+    {
+      "name": "TuvekRecipesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "tuvek_recipes_armor_boots_recipe"
+    },
+    {
+      "name": "ArtisianAxe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_axe"
+    },
+    {
+      "name": "ArtisianShovel",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_shovel"
+    },
+    {
+      "name": "ArtisianHoe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artisian_hoe"
+    },
+    {
+      "name": "ArtisianPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "artisian_pickaxe_recipe"
+    },
+    {
+      "name": "ArtisianAxeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "artisian_axe_recipe"
+    },
+    {
+      "name": "ArtisianSwordRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "artisian_sword_recipe"
+    },
+    {
+      "name": "ArtisianShovelRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "artisian_shovel_recipe"
+    },
+    {
+      "name": "ArtisianHoeRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "artisian_hoe_recipe"
+    },
+    {
+      "name": "ArtsistssPickaxee",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artsistss_pickaxee"
+    },
+    {
+      "name": "TestSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_sword"
+    },
+    {
+      "name": "_CinbarkArmor",
+      "type": "armor",
+      "sortid": 31,
+      "compiles": false,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "_cinbark_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TTuvekArmorArmor",
+      "type": "armor",
+      "sortid": 32,
+      "compiles": false,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "t_tuvek_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.darkportaltools.artisian_hoe": "Artisian Hoe",
+      "item.darkportaltools.t_tuvek_armor_armorhelmet": "TTuvekArmor Helmet",
+      "item.darkportaltools._cinbark_armorboots": "_Cinbark Boots",
+      "item.darkportaltools.t_tuvek_armor_armorbody": "TTuvekArmor Chestplate",
+      "item.darkportaltools._cinbark_armorhelmet": "_Cinbark Helmet",
+      "item.darkportaltools.artisian_axe": "Artisian Axe",
+      "item.darkportaltools.test_sword": "Artisian Sword",
+      "item.darkportaltools.t_tuvek_armor_armorlegs": "TTuvekArmor Leggings",
+      "item.darkportaltools.t_tuvek_armor_armorboots": "TTuvekArmor Boots",
+      "item.darkportaltools._cinbark_armorbody": "_Cinbark Chestplate",
+      "item.darkportaltools.artsistss_pickaxee": "Artisian Pickaxe",
+      "item.darkportaltools.artisian_shovel": "Artisian Shovel",
+      "item.darkportaltools._cinbark_armorlegs": "_Cinbark Leggings"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "darkportaltools",
+    "modName": "DarkPortalTools1.16.1!",
+    "version": "1.0.0",
+    "author": "ShishKebab, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.16.1",
+    "modElementsPackage": "net.mcreator.darkportaltools",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
